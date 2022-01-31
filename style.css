@@ -73,6 +73,7 @@ nav a:hover {
 }
 
 #button {
+    text-decoration: none;
     align-self: center;
     border-radius: 20px;
     padding: 6px 15px 10px 15px;
@@ -84,6 +85,7 @@ nav a:hover {
 }
 
 #button:hover {
+    text-decoration: none;
     background: rgb(214, 211, 211);
     color: black;
     position: relative;
